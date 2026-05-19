@@ -1,5 +1,11 @@
 # 💫 About Me:
-Turning coffee into code ☕💻<br>Building AI projects, breaking models, fixing bugs, and learning daily 🚀<br>Interested in Machine Learning, Deep Learning, and Computer Vision 🤖<br>Creating projects that solve real-world problems using AI 🧠<br>Android developer with Kotlin experience 📱<br>Always curious, always learning, always building 🔥<br>Open to collaboration and new opportunities 🤝
+-- Turning coffee into code ☕💻<br>
+-- Building AI projects, breaking models, fixing bugs, and learning daily 🚀<br>
+-- Interested in Machine Learning, Deep Learning, and Computer Vision 🤖<br>
+-- Creating projects that solve real-world problems using AI 🧠<br>
+-- Android developer with Kotlin experience 📱<br>
+-- Always curious, always learning, always building 🔥<br>
+-- Open to collaboration and new opportunities 🤝
 
 
 ## 🌐 Socials:
